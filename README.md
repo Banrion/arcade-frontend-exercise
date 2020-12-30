@@ -2,9 +2,9 @@
 
 This project is a pair programming exercise designed to help demonstrate:
 
-  - An understanding of modern React best practices
-  - Writing testable code
-  - The ability to work with other developers
+- An understanding of modern React best practices
+- Writing testable code
+- The ability to work with other developers
 
 ## The Goals
 
@@ -26,10 +26,10 @@ export interface Person {
 ```
 
 The goals are to:
-  - [ ] extend the search function to support filtering by `teamName`
-  - [ ] identify (and fix) any potential performance issues
-  - [ ] have no errors in the console
 
+- [-] extend the search function to support filtering by `teamName`
+- [-] identify (and fix) any potential performance issues
+- [-] have no errors in the console
 
 ## Our Stack
 
@@ -38,7 +38,6 @@ The project is written in TypeScript (optional but preferred).
 - Babel / Node v14.7.0 / Yarn
 - NextJS / React / Chakra UI
 - Jest
-
 
 ## Prerequisites
 
@@ -67,7 +66,6 @@ nvm install
 yarn install
 ```
 
-
 ## Development
 
 Start the dev server and open the page in your browser.
@@ -77,7 +75,6 @@ yarn dev
 
 # defaults to http://localhost:3000
 ```
-
 
 ## Unit Tests
 
